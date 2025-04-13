@@ -70,10 +70,10 @@
 	</table>
 </div>
 
+<!--
 <hr>
 
 <h3 align="center">Contact Me</h3>
-<!--
 <div align="center">
 	<a href="https://chill-sam.github.io/"><img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=googleearth&logoColor=F8F8F2&color=44475A"></a>
 </div>
