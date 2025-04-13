@@ -35,3 +35,39 @@
 	<img src="https://img.shields.io/badge/html-%23.svg?&style=for-the-badge&logo=html5&logoColor=F8F8F2&color=44475A">
 	<img src="https://img.shields.io/badge/css-%23.svg?&style=for-the-badge&logo=css&logoColor=F8F8F2&color=44475A">
 </div>
+
+
+<hr>
+
+<h3 align="center">My latest projects</h3>
+
+<div align="center">
+	<table>
+		<thead align="center">
+			<tr border: none;>
+			<td><b>Projects</b></td>
+			<td><b>Stars</b></td>
+			<td><b>Forks</b></td>
+			<td><b>Issues</b></td>
+			<td><b>Pull requests</b></td>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+			<td><a href="https://github.com/Chill-Sam/ESP32DroneController"><b>ESP32 Drone Controller</b></a></td>
+			<td><img alt="Stars" src="https://img.shields.io/github/stars/Chill-Sam/ESP32DroneController?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			<td><img alt="Forks" src="https://img.shields.io/github/forks/Chill-Sam/ESP32DroneController?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			<td><img alt="Issues" src="https://img.shields.io/github/issues/Chill-Sam/ESP32DroneController?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Chill-Sam/ESP32DroneController?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			</tr>
+			<tr>
+			<td><a href="https://github.com/Chill-Sam/ChillNet"><b>Chill Net</b></a></td>
+			<td><img alt="Stars" src="https://img.shields.io/github/stars/Chill-Sam/ChillNet?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			<td><img alt="Forks" src="https://img.shields.io/github/forks/Chill-Sam/ChillNet?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			<td><img alt="Issues" src="https://img.shields.io/github/issues/Chill-Sam/ChillNet?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Chill-Sam/ChillNet?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+		</tbody>
+	</table>
+</div>
+
+<hr>
