@@ -25,7 +25,7 @@
 	<img src="https://img.shields.io/badge/git-%23.svg?&style=for-the-badge&logo=git&logoColor=F8F8F2&color=BD93F9">
 	<img src="https://img.shields.io/badge/linux-%23.svg?&style=for-the-badge&logo=linux&logoColor=F8F8F2&color=BD93F9">
 	<img src="https://img.shields.io/badge/javascript-%23.svg?&style=for-the-badge&logo=javascript&logoColor=F8F8F2&color=BD93F9">
-	<img src="https://img.shields.io/badge/C++-%23.svg?&style=for-the-badge&logo=C++&logoColor=F8F8F2&color=BD93F9">
+	<img src="https://img.shields.io/badge/c++-%23.svg?&style=for-the-badge&logo=cplusplus&logoColor=F8F8F2&color=BD93F9">
 </div>
 
 <div align="center" width="70%">
