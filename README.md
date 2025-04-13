@@ -5,4 +5,4 @@
 
 <hr>
 
-<img align="right" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Druxorey&langs_count=6&theme=dracula&layout=compact&border_color=44475A&bg_color=00000000&">
+<img align="right" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chill-Sam&langs_count=6&theme=dracula&layout=compact&border_color=44475A&bg_color=00000000&">
