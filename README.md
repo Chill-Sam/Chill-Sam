@@ -29,9 +29,9 @@
 </div>
 
 <div align="center" width="70%">
-	<img src="https://img.shields.io/badge/c language-%23.svg?&style=for-the-badge&logo=c&logoColor=F8F8F2&color=44475A">
+	<img src="https://img.shields.io/badge/c-%23.svg?&style=for-the-badge&logo=c&logoColor=F8F8F2&color=44475A">
 	<img src="https://img.shields.io/badge/rust-%23.svg?&style=for-the-badge&logo=rust&logoColor=F8F8F2&color=44475A">
 	<img src="https://img.shields.io/badge/python-%23.svg?&style=for-the-badge&logo=python&logoColor=F8F8F2&color=44475A">
-	<img src="https://img.shields.io/badge/html-%23.svg?&style=for-the-badge&logo=html&logoColor=F8F8F2&color=44475A">
+	<img src="https://img.shields.io/badge/html-%23.svg?&style=for-the-badge&logo=html5&logoColor=F8F8F2&color=44475A">
 	<img src="https://img.shields.io/badge/css-%23.svg?&style=for-the-badge&logo=css&logoColor=F8F8F2&color=44475A">
 </div>
