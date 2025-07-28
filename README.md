@@ -66,6 +66,12 @@
 			<td><img alt="Forks" src="https://img.shields.io/github/forks/Chill-Sam/ChillNet?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
 			<td><img alt="Issues" src="https://img.shields.io/github/issues/Chill-Sam/ChillNet?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
 			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Chill-Sam/ChillNet?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			<tr>
+			<td><a href="https://github.com/Chill-Sam/ChillLang"><b>Chill Net</b></a></td>
+			<td><img alt="Stars" src="https://img.shields.io/github/stars/Chill-Sam/ChillLang?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			<td><img alt="Forks" src="https://img.shields.io/github/forks/Chill-Sam/ChillLang?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			<td><img alt="Issues" src="https://img.shields.io/github/issues/Chill-Sam/ChillLang?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Chill-Sam/ChillLang?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
 		</tbody>
 	</table>
 </div>
