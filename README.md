@@ -39,7 +39,7 @@
 
 <hr>
 
-<h3 align="center">My latest projects</h3>
+<h3 align="center">My favorite projects</h3>
 
 <div align="center">
 	<table>
@@ -54,24 +54,33 @@
 		</thead>
 		<tbody>
 			<tr>
-			<td><a href="https://github.com/Chill-Sam/ESP32DroneController"><b>ESP32 Drone Controller</b></a></td>
-			<td><img alt="Stars" src="https://img.shields.io/github/stars/Chill-Sam/ESP32DroneController?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
-			<td><img alt="Forks" src="https://img.shields.io/github/forks/Chill-Sam/ESP32DroneController?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
-			<td><img alt="Issues" src="https://img.shields.io/github/issues/Chill-Sam/ESP32DroneController?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
-			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Chill-Sam/ESP32DroneController?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+				<td><a href="https://github.com/Chill-Sam/SpeakerSystem"><b>Speaker System</b></a></td>
+				<td><img alt="Stars" src="https://img.shields.io/github/stars/Chill-Sam/SpeakerSystem?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+				<td><img alt="Forks" src="https://img.shields.io/github/forks/Chill-Sam/SpeakerSystem?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+				<td><img alt="Issues" src="https://img.shields.io/github/issues/Chill-Sam/SpeakerSystem?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+				<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Chill-Sam/SpeakerSystem?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
 			</tr>
 			<tr>
-			<td><a href="https://github.com/Chill-Sam/ChillNet"><b>Chill Net</b></a></td>
-			<td><img alt="Stars" src="https://img.shields.io/github/stars/Chill-Sam/ChillNet?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
-			<td><img alt="Forks" src="https://img.shields.io/github/forks/Chill-Sam/ChillNet?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
-			<td><img alt="Issues" src="https://img.shields.io/github/issues/Chill-Sam/ChillNet?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
-			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Chill-Sam/ChillNet?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+				<td><a href="https://github.com/Chill-Sam/ESP32DroneController"><b>ESP32 Drone Controller</b></a></td>
+				<td><img alt="Stars" src="https://img.shields.io/github/stars/Chill-Sam/ESP32DroneController?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+				<td><img alt="Forks" src="https://img.shields.io/github/forks/Chill-Sam/ESP32DroneController?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+				<td><img alt="Issues" src="https://img.shields.io/github/issues/Chill-Sam/ESP32DroneController?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+				<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Chill-Sam/ESP32DroneController?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			</tr>
 			<tr>
-			<td><a href="https://github.com/Chill-Sam/ChillLang"><b>Chill Lang</b></a></td>
-			<td><img alt="Stars" src="https://img.shields.io/github/stars/Chill-Sam/ChillLang?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
-			<td><img alt="Forks" src="https://img.shields.io/github/forks/Chill-Sam/ChillLang?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
-			<td><img alt="Issues" src="https://img.shields.io/github/issues/Chill-Sam/ChillLang?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
-			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Chill-Sam/ChillLang?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+				<td><a href="https://github.com/Chill-Sam/ChillNet"><b>Chill Net</b></a></td>
+				<td><img alt="Stars" src="https://img.shields.io/github/stars/Chill-Sam/ChillNet?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+				<td><img alt="Forks" src="https://img.shields.io/github/forks/Chill-Sam/ChillNet?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+				<td><img alt="Issues" src="https://img.shields.io/github/issues/Chill-Sam/ChillNet?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+				<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Chill-Sam/ChillNet?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+				</tr>
+			<tr>
+				<td><a href="https://github.com/Chill-Sam/ChillLang"><b>Chill Lang</b></a></td>
+				<td><img alt="Stars" src="https://img.shields.io/github/stars/Chill-Sam/ChillLang?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+				<td><img alt="Forks" src="https://img.shields.io/github/forks/Chill-Sam/ChillLang?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+				<td><img alt="Issues" src="https://img.shields.io/github/issues/Chill-Sam/ChillLang?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+				<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Chill-Sam/ChillLang?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			</tr>
 		</tbody>
 	</table>
 </div>
