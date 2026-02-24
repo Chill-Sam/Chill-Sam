@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a  href="https://chill-sam.github.io/">Chill-Sam</a></h1>
+<h1 align="center">Hi, I'm Chill-Sam</h1>
 <p align="center"><b>High School CS Student</b></p>
 
 <!-- [![Website](https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=googleearth&logoColor=F8F8F2&color=BD93F9)](https://chill-sam.github.io/) -->
