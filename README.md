@@ -1,26 +1,37 @@
 <h1 align="center">Hi, I'm <a  href="https://chill-sam.github.io/">Chill-Sam</a></h1>
-<p align="center">Computer Science High School Student</p>
+<p align="center"><b>High School CS Student</b></p>
 
-<img src="static/grid-snake.svg" alt="snake">
+<!-- [![Website](https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=googleearth&logoColor=F8F8F2&color=BD93F9)](https://chill-sam.github.io/) -->
+[![Email](https://img.shields.io/badge/contact-%23.svg?&style=for-the-badge&logo=gmail&logoColor=F8F8F2&color=44475A)](mailto:jonathan@wahrenberg.com)
 
 <hr>
 
-<h3 align="center">My projects</h3>
+## `> whoami`
+I'm a high school student interested in building things across software and hardware. I enjoy working on projects that span multiple disciplines - from writing compilers to designing PCBs and building drones. I have a particular interest in math and low-level programming.
+
+- Currently working on: **Chill Lang**, a compiled statically typed low level programming language targetting x86 architecture. 
+- Interested in robotics, electronics, and language design
+
+<hr>
+
+## `> ls projects/`
 
 <div align="center">
 	<table>
 		<thead align="center">
-			<tr border: none;>
-			<td><b>Projects</b></td>
-			<td><b>Stars</b></td>
-			<td><b>Forks</b></td>
-			<td><b>Issues</b></td>
-			<td><b>Pull requests</b></td>
+			<tr>
+				<td><b>Project</b></td>
+				<td><b>About</b></td>
+				<td><b>Stars</b></td>
+				<td><b>Forks</b></td>
+				<td><b>Issues</b></td>
+				<td><b>PRs</b></td>
 			</tr>
 		</thead>
 		<tbody>
 			<tr>
 				<td><a href="https://github.com/Chill-Sam/ChillLang"><b>Chill Lang</b></a></td>
+				<td>My own programming language</td>
 				<td><img alt="Stars" src="https://img.shields.io/github/stars/Chill-Sam/ChillLang?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
 				<td><img alt="Forks" src="https://img.shields.io/github/forks/Chill-Sam/ChillLang?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
 				<td><img alt="Issues" src="https://img.shields.io/github/issues/Chill-Sam/ChillLang?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
@@ -28,6 +39,7 @@
 			</tr>
 			<tr>
 				<td><a href="https://github.com/Chill-Sam/SpeakerSystem"><b>Speaker System</b></a></td>
+				<td>Custom-built audio system</td>
 				<td><img alt="Stars" src="https://img.shields.io/github/stars/Chill-Sam/SpeakerSystem?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
 				<td><img alt="Forks" src="https://img.shields.io/github/forks/Chill-Sam/SpeakerSystem?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
 				<td><img alt="Issues" src="https://img.shields.io/github/issues/Chill-Sam/SpeakerSystem?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
@@ -35,6 +47,7 @@
 			</tr>
 			<tr>
 				<td><a href="https://github.com/Chill-Sam/ESP32DroneController"><b>ESP32 Drone Controller</b></a></td>
+				<td>Drone controller on an ESP32</td>
 				<td><img alt="Stars" src="https://img.shields.io/github/stars/Chill-Sam/ESP32DroneController?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
 				<td><img alt="Forks" src="https://img.shields.io/github/forks/Chill-Sam/ESP32DroneController?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
 				<td><img alt="Issues" src="https://img.shields.io/github/issues/Chill-Sam/ESP32DroneController?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
@@ -46,45 +59,43 @@
 
 <hr>
 
-<h3 align="center">About Me</h3>
+## `> cat published.txt`
 
-<img align="right" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chill-Sam&langs_count=6&theme=dracula&layout=compact&border_color=44475A&bg_color=00000000&">
+**SSD1306 ESP32 Driver** — published on the [Espressif Component Registry](https://components.espressif.com/)
 
-<ul>
-	<li>Currently learning to <b>engineer</b> in my free time.</li>
-	<li>Math <b>lover</b></li>
-	<li>Working on <b>innovating</b> new technologies</li>
-	<li><b>Robotics</b> and <b>electronics</b> enjoyer</li>
-	<li>Loves customizing Linux</li>
-	<li>I use Arch BTW</li>
-</ul>
+An ESP-IDF component for the SSD1306 OLED display. Available to install directly via `idf.py add-dependency`.
 
-<h3 align="center">Technologies I Know</h3>
+[![Component Registry](https://img.shields.io/badge/espressif%20component%20registry-%23.svg?&style=for-the-badge&logo=espressif&logoColor=F8F8F2&color=BD93F9)](https://components.espressif.com/components/chill-sam/ssd1306/)
 
-<div align="center" width="70%">
-	<img src="https://img.shields.io/badge/neovim-%23.svg?&style=for-the-badge&logo=neovim&logoColor=F8F8F2&color=BD93F9">
-	<img src="https://img.shields.io/badge/git-%23.svg?&style=for-the-badge&logo=git&logoColor=F8F8F2&color=BD93F9">
-	<img src="https://img.shields.io/badge/linux-%23.svg?&style=for-the-badge&logo=linux&logoColor=F8F8F2&color=BD93F9">
-	<img src="https://img.shields.io/badge/javascript-%23.svg?&style=for-the-badge&logo=javascript&logoColor=F8F8F2&color=BD93F9">
-	<img src="https://img.shields.io/badge/typescript-%23.svg?&style=for-the-badge&logo=typescript&logoColor=F8F8F2&color=BD93F9">
+<hr>
+
+## `> cat tech_stack.txt`
+
+**Primary**
+
+<div align="center">
 	<img src="https://img.shields.io/badge/c-%23.svg?&style=for-the-badge&logo=c&logoColor=F8F8F2&color=BD93F9">
 	<img src="https://img.shields.io/badge/c++-%23.svg?&style=for-the-badge&logo=cplusplus&logoColor=F8F8F2&color=BD93F9">
-	<img src="https://img.shields.io/badge/svelte-%23.svg?&style=for-the-badge&logo=svelte&logoColor=F8F8F2&color=BD93F9">
 	<img src="https://img.shields.io/badge/python-%23.svg?&style=for-the-badge&logo=python&logoColor=F8F8F2&color=BD93F9">
+	<img src="https://img.shields.io/badge/typescript-%23.svg?&style=for-the-badge&logo=typescript&logoColor=F8F8F2&color=BD93F9">
+	<img src="https://img.shields.io/badge/javascript-%23.svg?&style=for-the-badge&logo=javascript&logoColor=F8F8F2&color=BD93F9">
+	<img src="https://img.shields.io/badge/svelte-%23.svg?&style=for-the-badge&logo=svelte&logoColor=F8F8F2&color=BD93F9">
+	<img src="https://img.shields.io/badge/linux-%23.svg?&style=for-the-badge&logo=linux&logoColor=F8F8F2&color=BD93F9">
+	<img src="https://img.shields.io/badge/neovim-%23.svg?&style=for-the-badge&logo=neovim&logoColor=F8F8F2&color=BD93F9">
+	<img src="https://img.shields.io/badge/git-%23.svg?&style=for-the-badge&logo=git&logoColor=F8F8F2&color=BD93F9">
 </div>
 
-<div align="center" width="70%">
-	<img src="https://img.shields.io/badge/vue.js-%23.svg?&style=for-the-badge&logo=vue.js&logoColor=F8F8F2&color=44475A">
+**Secondary**
+
+<div align="center">
 	<img src="https://img.shields.io/badge/rust-%23.svg?&style=for-the-badge&logo=rust&logoColor=F8F8F2&color=44475A">
 	<img src="https://img.shields.io/badge/go-%23.svg?&style=for-the-badge&logo=go&logoColor=F8F8F2&color=44475A">
+	<img src="https://img.shields.io/badge/vue.js-%23.svg?&style=for-the-badge&logo=vue.js&logoColor=F8F8F2&color=44475A">
 	<img src="https://img.shields.io/badge/tailwindcss-%23.svg?&style=for-the-badge&logo=tailwindcss&logoColor=F8F8F2&color=44475A">
 	<img src="https://img.shields.io/badge/kicad-%23.svg?&style=for-the-badge&logo=kicad&logoColor=F8F8F2&color=44475A">
 	<img src="https://img.shields.io/badge/inventor 2025-%23.svg?&style=for-the-badge&logo=autodesk&logoColor=F8F8F2&color=44475A">
 </div>
-<!--
+
 <hr>
-<h3 align="center">Contact Me</h3>
-<div align="center">
-	<a href="https://chill-sam.github.io/"><img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=googleearth&logoColor=F8F8F2&color=44475A"></a>
-</div>
--->
+
+<img src="static/grid-snake.svg" alt="snake">
