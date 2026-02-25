@@ -81,7 +81,6 @@ An ESP-IDF component for the SSD1306 OLED display. Available to install directly
 	<img src="https://img.shields.io/badge/javascript-%23.svg?&style=for-the-badge&logo=javascript&logoColor=F8F8F2&color=BD93F9">
 	<img src="https://img.shields.io/badge/svelte-%23.svg?&style=for-the-badge&logo=svelte&logoColor=F8F8F2&color=BD93F9">
 	<img src="https://img.shields.io/badge/linux-%23.svg?&style=for-the-badge&logo=linux&logoColor=F8F8F2&color=BD93F9">
-	<img src="https://img.shields.io/badge/neovim-%23.svg?&style=for-the-badge&logo=neovim&logoColor=F8F8F2&color=BD93F9">
 	<img src="https://img.shields.io/badge/git-%23.svg?&style=for-the-badge&logo=git&logoColor=F8F8F2&color=BD93F9">
 </div>
 
