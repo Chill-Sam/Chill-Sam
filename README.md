@@ -101,4 +101,4 @@ An ESP-IDF component for the SSD1306 OLED display. Available to install directly
 
 <hr>
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Chill-Sam)
+![](https://komarev.com/ghpvc/?username=Chill-Sam&color=BD93F9&abbreviated=true)
