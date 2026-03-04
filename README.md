@@ -98,3 +98,7 @@ An ESP-IDF component for the SSD1306 OLED display. Available to install directly
 <hr>
 
 <img src="static/grid-snake.svg" alt="snake">
+
+<hr>
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Chill-Sam)
