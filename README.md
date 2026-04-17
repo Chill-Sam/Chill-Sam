@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Chill-Sam</h1>
 <p align="center"><b>High School CS Student</b></p>
 
-<!-- [![Website](https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=googleearth&logoColor=F8F8F2&color=BD93F9)](https://chill-sam.github.io/) -->
+[![Website](https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=googleearth&logoColor=F8F8F2&color=BD93F9)](https://chill-sam.github.io/)
 [![Email](https://img.shields.io/badge/contact-%23.svg?&style=for-the-badge&logo=gmail&logoColor=F8F8F2&color=44475A)](mailto:jonathan@wahrenberg.com)
 
 <hr>
@@ -100,5 +100,3 @@ An ESP-IDF component for the SSD1306 OLED display. Available to install directly
 <img src="static/grid-snake.svg" alt="snake">
 
 <hr>
-
-![](https://komarev.com/ghpvc/?username=Chill-Sam&color=BD93F9&abbreviated=true)
